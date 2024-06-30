@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #e9ecef;
+}
+
+html,
+body,
+#__next {
+  height: 100%;
+}
